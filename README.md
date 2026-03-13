@@ -102,5 +102,6 @@ NOT VALID: {"tutor": "Ivan", "student": "Maria", "subject": "Math", "price": -50
 ```
 
 ### 6. Результат работы
-![Screenshoot](/Screenshot (7).png)
+![Screenshoot](/Screenshot.png)
 
+На скриншоте видно, что сообщения, отправленные Producer, успешно доставляются Consumer. Сообщения с корректными данными отображаются как RECEIVED, сообщения с нарушениями правил валидации — как NOT VALID, что подтверждает корректную работу всего цикла обработки данных.
