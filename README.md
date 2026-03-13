@@ -100,3 +100,7 @@ SEND: {"tutor": "Ivan", "student": "Maria", "subject": "Math", "price": -500, "r
 RECEIVED: {"tutor": "Anna", "student": "Petr", "subject": "Physics", "price": 42, "rating": 4.7}
 NOT VALID: {"tutor": "Ivan", "student": "Maria", "subject": "Math", "price": -500, "rating": 6.3}
 ```
+
+### 6. Результат работы
+![Screenshoot](/Screenshot (7).png)
+
